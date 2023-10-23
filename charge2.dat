@@ -1,0 +1,11 @@
+10                  #N: Number of Charges 
+1.0 0.0 1.0         #(X,Y,Q): Position and charge
+0.80901699 0.58778525 1.0 #(X,Y,Q): Position and charge (36 degrees)
+0.30901699 0.95105652 1.0 #(X,Y,Q): Position and charge (72 degrees)
+-0.30901699 0.95105652 1.0 #(X,Y,Q): Position and charge (108 degrees)
+-0.80901699 0.58778525 1.0 #(X,Y,Q): Position and charge (144 degrees)
+-1.0 0.0 1.0         #(X,Y,Q): Position and charge
+-0.80901699 -0.58778525 1.0 #(X,Y,Q): Position and charge (216 degrees)
+-0.30901699 -0.95105652 1.0 #(X,Y,Q): Position and charge (252 degrees)
+0.30901699 -0.95105652 1.0 #(X,Y,Q): Position and charge (288 degrees)
+0.80901699 -0.58778525 1.0 #(X,Y,Q): Position and charge (324 degrees)
